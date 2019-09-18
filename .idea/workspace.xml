@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0cbb5fb-6568-45ae-a750-3f633ba2299f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/views/ageAndGenderRecognition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/batchFaceLandmarks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/batchFaceRecognition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/bbtFaceLandmarkDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/bbtFaceMatching.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/bbtFaceRecognition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/bbtFaceSimilarity.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/faceDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/faceExpressionRecognition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/faceExtraction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/faceLandmarkDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/faceRecognition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/videoFaceTracking.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/webcamAgeAndGenderRecognition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/webcamFaceDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/webcamFaceExpressionRecognition.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/webcamFaceLandmarkDetection.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/webcamFaceLandmarkDetectionThreeJS.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/webcamFaceLandmarkDetectionThreeJS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568723338376</updated>
-      <workItem from="1568723342210" duration="3363000" />
+      <workItem from="1568723342210" duration="4005000" />
     </task>
     <servers />
   </component>
