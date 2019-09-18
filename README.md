@@ -1,8 +1,8 @@
 # Face API JS and ThreeJS - Basic example
 
-This is a basic example of connecting Face API JS (https://github.com/justadudewhohacks/face-api.js) with ThreeJS (https://threejs.org)
+This is a basic example of connecting face-api.js (https://github.com/justadudewhohacks/face-api.js) with ThreeJS (https://threejs.org)
 
-Build on the example framework of Face API JS
+Build on the example framework of face-api.js
 
 ## Running the example 
 ``` bash
